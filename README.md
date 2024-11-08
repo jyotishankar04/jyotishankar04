@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Happy to seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Jyotishankar Patra, people call me Suvam, a  computer science student of [Fakir Mohan Auto. College](https://fmcollege.nic.in/). I am a tech enthusiast & a full stack developer. Always open to collaborating on projects and build intresting things. Feel free to connect with me here:
 
