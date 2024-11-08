@@ -2,7 +2,7 @@
 
 I am Jyotishankar Patra, people call me Suvam, a  computer science student of [Fakir Mohan Auto. College](https://fmcollege.nic.in/). I am a tech enthusiast & a full stack developer. Always open to collaborating on projects and build intresting things. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/jyotishankar-patra/)
+[![Linkedin Badge](https://img.shields.io/badge/-jyotishankar-patra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotishankar-patra/)](https://www.linkedin.com/in/jyotishankar-patra/)
 [![Instagram Badge](https://img.shields.io/badge/-dev.suvam-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dev.suvam/)](https://instagram.com/dev.suvam)
 [![Medium Badge](https://img.shields.io/badge/-@devsuvam-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@devsuvam/)](https://medium.com/@devsuvam)
 [![Gmail Badge](https://img.shields.io/badge/-devsuvam@myyahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devsuvam@myyahoo.com)](mailto:devsuvam@myyahoo.com)
