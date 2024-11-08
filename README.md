@@ -32,5 +32,3 @@ I am Jyotishankar Patra, people call me Suvam, a  computer science student of [F
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jyotishankar04&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jyotishankar04.jyotishankar04)
