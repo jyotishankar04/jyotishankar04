@@ -1,133 +1,91 @@
-\documentclass[11pt, a4paper]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{geometry}
-\geometry{left=1in, right=1in, top=1in, bottom=1in}
-\usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{xcolor}
-\usepackage{fontawesome5}
-\usepackage{titlesec}
-\usepackage{parskip}
-\usepackage{amsmath}
-\usepackage{noto}
-\usepackage[default]{sourcesanspro}
 
-% Define colors
-\definecolor{linkcolor}{HTML}{0A66C2}
-\definecolor{headercolor}{HTML}{181717}
-\definecolor{subheadercolor}{HTML}{555555}
+# Jyotishankar Patra (Suvam)
+**Full Stack Developer | Computer Science Graduate**  
+📍 Balasore, Odisha, India  
+📧 jyotipatra.subham@gmail.com | 📞 +91-9861250893  
 
-% Hyperlink setup
-\hypersetup{
-    colorlinks=true,
-    linkcolor=linkcolor,
-    urlcolor=linkcolor,
-    pdftitle={Jyotishankar Patra Resume},
-}
+---
 
-% Title format for sections
-\titleformat{\section}{\Large\bfseries\color{headercolor}}{\thesection}{1em}{}
-\titleformat{\subsection}{\large\bfseries\color{subheadercolor}}{\thesubsection}{1em}{}
+## 🎓 Education
+**Fakir Mohan Autonomous College, Balasore**  
+*Bachelor of Science in Computer Science (2022–2025)*  
+CGPA: **7.02 / 10.00**  
 
-% Custom commands
-\newcommand{\contactline}[2]{\small #1 \textbf{#2}\par}
-\newcommand{\project}[3]{\item \textbf{#1} \textendash\ #2 \\ \small #3}
+**Ramarani Institute of Technology, Balasore**  
+*12th in Science (2020–2022)*  
+Percentage: **79%**
 
-% Remove default page numbers
-\pagestyle{empty}
+---
 
-\begin{document}
+## 💼 Professional Experience
+**Full Stack Developer Intern @ Ansmake Technology (Remote)**  
+*Present*  
+- Optimized RESTful APIs using FastAPI, improving response times by 30%  
+- Developed frontend components with Next.js, TanStack Query, and Radix UI  
+- Collaborated in an Agile environment to deliver SaaS product features  
 
-% Header
-\begin{center}
-    {\Huge \textbf{Jyotishankar Patra (Suvam)}} \\
-    \vspace{2mm}
-    {\large Full Stack Developer | Computer Science Graduate} \\
-    \vspace{4mm}
-    \contactline{\faMapMarkerAlt}{\ Balasore, Odisha, India}
-    \contactline{\faEnvelope}{\ \href{mailto:jyotipatra.subham@gmail.com}{jyotipatra.subham@gmail.com}}
-    \contactline{\faPhone}{\ +91-9861250893} \\
-    \vspace{2mm}
-    \contactline{\faLinkedin}{\ \href{https://linkedin.com/in/jyotishankar-patra}{linkedin.com/in/jyotishankar-patra}}
-    \contactline{\faGithub}{\ \href{https://github.com/jyotishankar04}{github.com/jyotishankar04}}
-    \contactline{\faMedium}{\ \href{https://medium.com/@devsuvam}{medium.com/@devsuvam}}
-\end{center}
+---
 
-% Education
-\section*{Education}
-\textbf{Fakir Mohan Autonomous College, Balasore} \hfill 2022--2025 \\
-Bachelor of Science in Computer Science \\
-CGPA: 7.02/10.00 \\
-\vspace{2mm}
-\textbf{Ramarani Institute of Technology, Balasore} \hfill 2020--2022 \\
-12th in Science \\
-Percentage: 79\%
+## 🛠️ Technical Stack
 
-% Professional Experience
-\section*{Professional Experience}
-\textbf{Full Stack Developer Intern} @ \href{https://ansmake.com}{Ansmake Technology} (Remote) \hfill Present
-\begin{itemize}[leftmargin=*, labelsep=5mm]
-    \item Optimized RESTful APIs using FastAPI, improving response times by 30\%
-    \item Developed frontend components with Next.js, Tanstack Query, and Radix UI
-    \item Collaborated in Agile environment to deliver SaaS product features
-\end{itemize}
+**Programming Languages:**  
+JavaScript, TypeScript, Python, C++, SQL  
 
-% Technical Stack
-\section*{Technical Stack}
-\subsection*{Programming Languages}
-JavaScript \textbullet\ TypeScript \textbullet\ Python \textbullet\ C++ \textbullet\ SQL
+**Frontend Development:**  
+React.js (v18/19), Next.js, Tailwind CSS v4, Radix UI, ShadCN, Vite  
 
-\subsection*{Frontend Development}
-React \textbullet\ Next.js \textbullet\ Tailwind CSS \textbullet\ ShadCN UI \textbullet\ Radix UI \textbullet\ Redux \textbullet\ React Query \textbullet\ Vite
+**Backend Development:**  
+Node.js, Express.js, FastAPI, Hono  
 
-\subsection*{Backend Development}
-Node.js \textbullet\ Express \textbullet\ FastAPI \textbullet\ REST API \textbullet\ WebSocket
+**Databases & ORM:**  
+PostgreSQL, MongoDB, Redis, Prisma, Mongoose  
 
-\subsection*{Databases \& ORM}
-PostgreSQL \textbullet\ MongoDB \textbullet\ Redis \textbullet\ Prisma
+**DevOps & Cloud Services:**  
+Docker, AWS EC2, GitHub Actions, Railway, Vercel, Render  
 
-\subsection*{DevOps \& Cloud Services}
-Docker \textbullet\ AWS \textbullet\ NGINX \textbullet\ Cloudflare \textbullet\ Git \textbullet\ GitHub \textbullet\ Linux
+**AI/ML Technologies:**  
+LangChain, Gemini AI, OpenRouter, Pinecone, Google Generative AI  
 
-\subsection*{AI/ML Technologies}
-LangChain \textbullet\ Pinecone \textbullet\ Gemini AI
+---
 
-% Featured Projects
-\section*{Featured Projects}
-\begin{itemize}[leftmargin=*, labelsep=5mm]
-    \project{QuickBrain AI}{AI-Powered Quiz Generator}
-    {Tech Stack: React 19, Vite, Express.js, Prisma, Redis, LangChain, Gemini AI, Pinecone \\ Developed AI-driven quiz platform with vector-based question retrieval \\ Reduced API response time by 40\% through optimization}
-    \project{Quizzify}{Interactive Quiz Platform}
-    {Tech Stack: Next.js, PostgreSQL, Prisma, JWT Authentication \\ Implemented social login and real-time feedback system \\ Achieved 95\%+ test coverage with Jest}
-    \project{Watch E-commerce}{Online Store}
-    {Tech Stack: Next.js, Express, PostgreSQL, PhonePe, Cloudinary \\ Integrated payment gateway and media management \\ Improved page load speed by 60\%}
-\end{itemize}
+## 🚀 Featured Projects
 
-% Achievements & Certifications
-\section*{Achievements \& Certifications}
-\begin{itemize}[leftmargin=*, labelsep=5mm]
-    \item \textbf{100xDevs Full Stack Development} Certification (2024)
-    \item Ranked top 5\% in CodeChef competition (2023)
-    \item GDSC Lead Interview Candidate (2023)
-    \item Technical Writer (10k+ Medium views)
-\end{itemize}
+### QuickBrain AI – AI-Powered Quiz Generator
+*React 19, Vite, Express.js, Prisma, Redis, LangChain, Gemini AI, Pinecone*  
+- Developed AI-driven quiz platform with vector-based question retrieval  
+- Reduced API response time by 40% through optimization  
 
-% GitHub Stats
-\section*{GitHub Stats}
-\begin{center}
-    \includegraphics[height=4.5cm]{https://github-readme-stats.vercel.app/api?username=jyotishankar04&show_icons=true&count_private=true&hide_border=true&theme=default} \quad
-    \includegraphics[height=4.5cm]{https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishankar04&layout=compact&hide_border=true&theme=default} \\
-    \vspace{2mm}
-    \includegraphics[height=4.5cm]{https://github-readme-streak-stats.herokuapp.com/?user=jyotishankar04&hide_border=true&theme=default}
-\end{center}
+### Quizzify – Interactive Quiz Platform
+*Next.js, PostgreSQL, Prisma, JWT Authentication*  
+- Implemented social login and real-time feedback system  
+- Achieved 95%+ test coverage using Jest  
 
-% Let's Connect
-\section*{Let's Connect!}
-I'm open to collaborations and new opportunities: \\
-\vspace{2mm}
-\contactline{\faEnvelope}{\ \href{mailto:jyotipatra.subham@gmail.com}{jyotipatra.subham@gmail.com}} \\
-\contactline{\faLinkedin}{\ \href{https://linkedin.com/in/jyotishankar-patra}{linkedin.com/in/jyotishankar-patra}} \\
-\contactline{\faTwitter}{\ \href{https://twitter.com/dev_suvam}{twitter.com/dev_suvam}}
+### Watch E-commerce – Online Watch Store
+*Next.js, Express.js, PostgreSQL, PhonePe, Cloudinary*  
+- Integrated payment gateway and media management  
+- Improved page load speed by 60%  
 
-\end{document}
+---
+
+## 🏆 Achievements & Certifications
+
+- **100xDevs Full Stack Development Certification** (2024)  
+- Ranked **Top 5%** in CodeChef Competition (2023)  
+- **GDSC Lead Interview Candidate** (2023)  
+- **Technical Writer** with 10k+ views on Medium  
+
+---
+
+## 📊 GitHub Stats
+
+[GitHub Profile](https://github.com/your-username)  
+
+---
+
+## 📫 Let’s Connect!
+I'm open to collaborations and new opportunities:  
+📧 jyotipatra.subham@gmail.com | 💼 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+**Last Updated:** July 2025
