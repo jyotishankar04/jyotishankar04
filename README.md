@@ -26,7 +26,7 @@ PostgreSQL, MongoDB, Redis, Prisma
 **Frontend:**  
 React, Next.js, Tailwind CSS  
 
-**Tools & DevOps:**  
+**DevOps & Tools:**  
 Docker, AWS, Nginx, Git, Linux  
 
 ---
@@ -34,28 +34,64 @@ Docker, AWS, Nginx, Git, Linux
 ## 📌 Featured Projects
 
 ### 🔹 QuickBrain AI
-AI-powered semantic search system for retrieving context from user data  
+AI-powered semantic search system for retrieving context from data  
 → Built scalable backend + AI workflows  
 
 ### 🔹 Quizzify
-AI-based quiz platform with authentication and dynamic question generation  
-→ Optimized database for handling large-scale quizzes  
+AI-based quiz platform with authentication  
+→ Reduced manual quiz creation using automation  
 
 ### 🔹 Watch E-Commerce
-Full-stack e-commerce system with payment integration  
-→ Built admin + user system with real-time order tracking  
+Full-stack e-commerce platform with payment integration  
+→ Built admin + user system with real-time tracking  
 
 ### 🔹 Real-Time Chat App
-WebSocket-based chat system for live communication  
-→ Designed event-driven backend for low-latency messaging  
+WebSocket-based chat system  
+→ Designed event-driven backend for live messaging  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotishankar04&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotishankar04&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotishankar04&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishankar04&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jyotishankar04&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotishankar04&theme=react-dark)](https://github.com/jyotishankar04)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jyotishankar04&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Developer Metrics
+
+![Metrics](https://metrics.lecoq.io/jyotishankar04?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia/Kolkata)
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jyotishankar04&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -68,4 +104,4 @@ WebSocket-based chat system for live communication
 
 ---
 
-⭐ Always open to collaboration on real-world backend and scalable system projects
+⭐ Open to backend / full stack opportunities and real-world collaborations
