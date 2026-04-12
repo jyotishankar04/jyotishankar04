@@ -73,7 +73,6 @@ WebSocket-based chat system
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotishankar04&theme=react-dark)](https://github.com/jyotishankar04)
 
 ---
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -82,9 +81,11 @@ WebSocket-based chat system
 
 ---
 
-## 📊 Developer Metrics
+## 📊 Developer Activity
 
-![Metrics](https://metrics.lecoq.io/jyotishankar04?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia/Kolkata)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotishankar04&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
 ---
 
