@@ -1,97 +1,81 @@
-# Hi 👋, I'm Jyotishankar Patra  
+# Hi 👋, I'm Jyotishankar Patra
 
-### Backend-Focused Full Stack Developer | MCA @ KIIT  
+### Backend-Focused Full Stack Developer | MCA @ KIIT '27
 
-I build scalable backend systems, real-time applications, and high-performance APIs.
+I build reliable backend systems, scalable APIs, and real-time applications. I'm interested in system design, distributed systems, and AI-powered products.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 MCA Student at KIIT (2025–2027)  
-- 💼 Former Software Developer Intern @ Ansmake  
-- ⚙️ Focused on Backend Systems, APIs, and Real-Time Applications  
-- 🧠 Interested in scalable system design  
+- 🎓 MCA Student at KIIT (2025–2027)
+- 💼 Former Software Developer Intern at Ansmake Technologies
+- ⚙️ Focused on backend engineering, API design, and system performance
+- 🧠 Learning system design, distributed systems, and AI systems
+- 🚀 Building and shipping real-world products
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Backend:**  
-Node.js, Express, FastAPI, REST APIs, WebSockets  
+**Languages:** TypeScript, JavaScript, Python, SQL
 
-**Database:**  
-PostgreSQL, MongoDB, Redis, Prisma  
+**Backend:** Node.js, Express.js, FastAPI, REST APIs, WebSockets
 
-**Frontend:**  
-React, Next.js, Tailwind CSS  
+**Databases & Caching:** PostgreSQL, MongoDB, Redis, Prisma
 
-**DevOps & Tools:**  
-Docker, AWS, Nginx, Git, Linux  
+**Frontend:** React, Next.js, Tailwind CSS
+
+**DevOps & Infrastructure:** Docker, AWS, Nginx, Linux, Git
+
+**AI Engineering:** LLM Integration, RAG, LangChain, Embeddings
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 QuickBrain AI  
-AI-powered search system with scalable backend  
+### 🔹 [Savedly](https://savedly.app/)
+An open-source second brain to save, organize, and search useful resources in one place.
 
-### 🔹 Quizzify  
-AI-based quiz platform with authentication  
+### 🔹 [BringBucket](https://github.com/jyotishankar04/BYOC)
+A bring-your-own-cloud storage platform built around user-owned S3-compatible storage.
 
-### 🔹 Watch E-Commerce  
-Full-stack platform with payment integration  
+### 🔹 [StartXKit](https://startxkit.js.org/)
+A CLI toolkit for quickly scaffolding Node.js backend applications with your preferred framework.
 
-### 🔹 Real-Time Chat App  
-WebSocket-based chat system  
+### 🔹 [Odialang](https://github.com/jyotishankar04/odialang)
+A programming language project with its own syntax, interpreter, and interactive playground.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotishankar04&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishankar04&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotishankar04&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishankar04&layout=compact&theme=transparent&hide_border=true" height="165" />
 </p>
-
----
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotishankar04&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotishankar04&theme=transparent&hide_border=true" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotishankar04&theme=github)](https://github.com/jyotishankar04)
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyotishankar04&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jyotishankar04&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotishankar04&theme=github-compact&hide_border=true)](https://github.com/jyotishankar04)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/jyotishankar-patra  
-- 🌐 Portfolio: https://suvam.qwikish.com  
-- 📧 Email: jyotipatra.subham@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/jyotishankar-patra](https://linkedin.com/in/jyotishankar-patra)
+- 🌐 Portfolio: [suvam.qwikish.com](https://suvam.qwikish.com)
+- 💻 GitHub: [@jyotishankar04](https://github.com/jyotishankar04)
+- 🧩 LeetCode: [@devsuvam1](https://leetcode.com/u/devsuvam1/)
+- 𝕏 X: [@devsuvam1](https://x.com/devsuvam1)
+- 📧 Email: jyotipatra.subham@gmail.com
 
 ---
 
-⭐ Open to backend / full stack opportunities
+⭐ Always building, learning, and improving as a backend engineer.
