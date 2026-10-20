@@ -70,7 +70,7 @@ A programming language project with its own syntax, interpreter, and interactive
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/jyotishankar-patra](https://linkedin.com/in/jyotishankar-patra)
-- 🌐 Portfolio: [suvam.qwikish.com](https://suvam.qwikish.com)
+- 🌐 Portfolio: [suvam.me](https://suvam.me)
 - 💻 GitHub: [@jyotishankar04](https://github.com/jyotishankar04)
 - 🧩 LeetCode: [@devsuvam1](https://leetcode.com/u/devsuvam1/)
 - 𝕏 X: [@devsuvam1](https://x.com/devsuvam1)
